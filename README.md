@@ -1,6 +1,5 @@
 ## android-support-core-ui
 
-
 Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/android/m2repository/com/android/support/support-core-ui/24.2.0/support-core-ui-24.2.0.aar`
 
