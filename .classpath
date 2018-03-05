@@ -7,5 +7,6 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-annotations"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-compat"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-utils"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
