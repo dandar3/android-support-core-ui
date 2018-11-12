@@ -5,8 +5,17 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-asynclayoutinflater"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-coordinatorlayout"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-cursoradapter"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-customview"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-drawerlayout"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-interpolator"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-slidingpanelayout"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-annotations"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-compat"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-utils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-swiperefreshlayout"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-viewpager"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
