@@ -19,7 +19,8 @@ https://maven.google.com/com/android/support/support-core-ui/28.0.0/support-core
 - [dandar3/android-support-viewpager](https://github.com/dandar3/android-support-viewpager/tree/28.0.0)
 
 **References:**
-
+- https://developer.android.com/topic/libraries/support-library/revisions#28-0-0
+- https://developer.android.com/topic/libraries/support-library/packages.html#v4-core-ui
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
